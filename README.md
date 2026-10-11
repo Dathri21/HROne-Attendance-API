@@ -38,4 +38,4 @@ Run tests against MongoDB 6.0+ and add checks for duplicate concurrent punch-ins
 
 `REVIEW.md` records the starter defects and `DECISIONS.md` explains the key implementation choices. Review these files and make sure you can explain the code yourself before submitting.
 
-No `.env`, secrets, Dockerfile or virtual environment should be committed. Keep the repository public through 31 October 2026 as the email requests.
+No `.env`, secrets, Dockerfile or virtual environment should be committed. 
